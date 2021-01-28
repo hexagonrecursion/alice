@@ -5,4 +5,4 @@ jobs:
   hello-eve:
     runs-on: ubuntu-latest
   steps:
-    - uses:  hexagonrecursion/eve@main
+  - uses:  hexagonrecursion/eve@main
