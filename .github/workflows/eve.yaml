@@ -4,5 +4,5 @@ on:
 jobs:
   hello-eve:
     runs-on: ubuntu-latest
-  steps:
-  - uses:  hexagonrecursion/eve@main
+    steps:
+    - uses:  hexagonrecursion/eve@main
