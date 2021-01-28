@@ -1,0 +1,8 @@
+on:
+  - push
+  - workflow_dispatch
+jobs:
+  hello-eve:
+    runs-on: ubuntu-latest
+  steps:
+    - uses:  hexagonrecursion/eve@main
